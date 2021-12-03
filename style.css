@@ -21,7 +21,7 @@ h2 {
   margin-bottom: 20px;
 }
 a.font-black {
-  color: black;
+  color: #000 !important;
 }
 /*
 About
@@ -46,10 +46,11 @@ About
 }
 #about .skills {
   font-size: 14px;
-  color: lightseagreen;
+  color: #00abae;
   margin-bottom: 10px;
+  font-weight: bold;
 }
-#margin .email {
+#about .email {
   margin-top: 14px;
   font-size: 14px;
 }
@@ -66,23 +67,28 @@ About
 PROJECTS
 
 ***/
-#project {
+#project{
   margin: 60px auto;
-  width: 80%;
-  text-align: center;
+  width: 80%
 }
-#project .card-body {
+
+#project h2{
   text-align: center;
 }
 
-#projects h2 {
-  text-align: center;
+#project .card img{
+  width: 100%;
+  background-color: rgb(238, 164, 137);
+  text-align: left;
 }
 
-#project .card img {
-  width: 60%;
-  height: 100%;
-}
-#project .card-title {
+#project .card-title{
   font-weight: bold;
 }
+#video{
+  width: 100%;
+  max-height: 270px;
+  background-color: black;
+}
+
+
