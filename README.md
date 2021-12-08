@@ -1,8 +1,11 @@
-# portfolio
+# Portfolio
 This portfolio is a small project using HTML , CSS, BootStrap, I will be using this to showcase my projects !
-[Live Heroku Deployment](https://portfolio-akshaytech.herokuapp.com/#Projects)
+[Live Heroku Deployment](https://portfolio-darris.herokuapp.com/)
 
-## Technologies Used
+<img src="https://user-images.githubusercontent.com/72240203/145132564-807e7091-3774-4e3c-8c04-609aab79b103.png" width="500">
+
+## Technologies Used!
+
 * HTML
 * CSS
 
